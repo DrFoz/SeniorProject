@@ -2,7 +2,11 @@ Robert Wellington Trombley (Oregon Institute of Technology -Renewable Energy Eng
 Tyson Matthew Fosdick (Portland State University-Computer Engineering)
 
 Project Overview
-We will be designing some awesome shit that has batteries and blinky lights yo!
+Our team plans to design, build and implement an off-grid power system utilizing recycled storage batteries and readily available and inexpensive system components such as solar panels, inverter, appliances. Will be designing and building the battery management system, MPPT charge controller, as well as an integrated smart home contoller. The battery managment/solar charge contoller will be optomized for maximum battery life cycle and all data will be aquired by the home controller which will control lighting, heating, appliances and communications and have the ability to restrict power use to each resource request on a hierarchical design. Our concept is to have a system intelligent enough, that when system total charge becomes low,  to minimize draw from one load such as lighting, while maximizing a more essential component such as heating. The smart controller will process data from sensors onsite, as well as from the web for example to get sunset/sunrise or weather data.
+
+The system will also have a terminal and user gui for setting preferences and thresthholds desired. If in a location with access to the web, the controller will also periodicly send the user system status reports or alerts if there are failures.
+
+One of our main goals for this project is to create a sytem this rubost that is affordable enough for the average consumer. We plan to make this first design for installation in a Tiny house application, but plan to design each component in a modular way to allow the system to be scaled for larger or smaller applications.
 
 Stuff
 This is stuff
